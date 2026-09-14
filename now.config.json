@@ -1,0 +1,6 @@
+{
+  "scope": "x_2218530_it_incid",
+  "scopeId": "4323d8ca83df0f10c3fc9730ceaad36a",
+  "name": "IT incident triage tool",
+  "tsconfigPath": "./src/server/tsconfig.json"
+}
